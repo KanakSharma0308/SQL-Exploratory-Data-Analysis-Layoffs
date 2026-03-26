@@ -10,6 +10,7 @@ Percentage_laid_off: Fraction of the company's workforce affected.
 Date: Date of the layoff event.
 Stage: Funding stage (e.g., Series B, Post-IPO).
 Funds_raised_millions: Total capital raised by the company.
+https://github.com/KanakSharma0308/SQL-Exploratory-Data-Analysis-Layoffs/blob/main/layoffs.csv
 
 Key Business Questions Answered
 The SQL scripts in this repository answer several critical questions:
